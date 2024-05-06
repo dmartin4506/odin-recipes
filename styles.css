@@ -1,4 +1,28 @@
 .homepage-title {
     color: burlywood;
     background-color: beige;
+    text-align: center;
+    border: 1px solid gold;
 }
+
+.recipeOne {
+    color: brown;
+    display: block;
+    margin-left: 320px;
+    margin-bottom: 20px;
+}
+
+.recipeTwo {
+    color: brown;
+    display: block;
+    margin-left: 320px;
+    margin-bottom: 20px;
+}
+
+.recipeThree {
+    color: brown;
+    display: block;
+    margin-left: 320px;
+    margin-bottom: 20px;
+}
+
