@@ -8,21 +8,36 @@
 .recipeOne {
     color: brown;
     display: block;
-    margin-left: 320px;
+    margin-left: 300px;
+    margin-right: 300px;
     margin-bottom: 20px;
+    margin-top: 20px;
+    background-color:floralwhite;
+    text-align: center;
+    border: 1px solid brown;
 }
 
 .recipeTwo {
     color: brown;
     display: block;
-    margin-left: 320px;
+    margin-left: 300px;
+    margin-right: 300px;
     margin-bottom: 20px;
+    margin-top: 20px;
+    background-color:floralwhite;
+    text-align: center;
+    border: 1px solid brown;
 }
 
 .recipeThree {
     color: brown;
     display: block;
-    margin-left: 320px;
+    margin-left: 300px;
+    margin-right: 300px;
     margin-bottom: 20px;
+    margin-top: 20px;
+    background-color:floralwhite;
+    text-align: center;
+    border: 1px solid brown;
 }
 
